@@ -1,2 +1,2 @@
-# Deep_Learning
-Entrega de la práctica de Deep Learning, del Bootcamp V de Big Data &amp; Machine Learning
+# NLP
+Entrega de la práctica de NLP del Bootcamp V de Big Data &amp; Machine Learning
